@@ -1,0 +1,8 @@
+- git:
+    local-name: universal_robot
+    uri: 'https://github.com/ros-industrial/universal_robot.git'
+    version: kinetic-devel
+- git:
+    local-name: moveit_gazebo_demo
+    uri: 'https://github.com/ipa-hsd/moveit_gazebo_demo.git'
+    version: main
